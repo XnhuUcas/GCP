@@ -12,7 +12,8 @@ Xiaonan Hu, Wei Zhang, Sanguo Zhang, Shuangge Ma and Qizhai Li
 
 # Maintainer
 Xiaonan Hu (xnhu@amss.ac.cn)
-Any questions or comments, please don't hestate to contact with me any time.
+
+Any questions or comments, please don't hesitate to contact with me any time.
 
 # Citation
 If you use this code to analysis, please cite the following paper:
