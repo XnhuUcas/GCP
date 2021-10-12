@@ -17,4 +17,5 @@ Any questions or comments, please don't hesitate to contact with me any time.
 
 # Citation
 If you use this code to analysis, please cite the following paper:
+
 Hu, X., Zhang, W., Zhang, S., Ma, S., & Li, Q. (2016). Group-combined P-values with applications to genetic association studies. Bioinformatics, 32(18), 2737-2743.
